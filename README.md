@@ -13,7 +13,7 @@ planning documentation for green-light dating app
 
 # MVP Features 
 - Auth 
-- User CRUD
+- User CRUD (inclusive of job) 
 - Set User Preferences 
 - Swipe/Match Functionality 
 - Chat Functionality among Matches 
