@@ -20,7 +20,20 @@ planning documentation for green-light dating app
   15. Casual/Unsure/Relationship
 
 - A user can login to the app 
+  1. Email 
+  2. Password 
+  
 - A user can select dating preferences (dealbreakers) 
+  1. Location (Radius) 
+  2. Education 
+  3. Smoker/Nonsmoker 
+  4. Drinker/Nondrinker 
+  5. Drugs/Nondrugs 
+  6. Weed/Nonweed 
+  7. Dogs/Cats/Other/No
+  8. Kids/No
+  9. Casual/Unsure/Relationship
+
 - A user should be able to swipe R (yes) / L (no) on potential matches 
 - A user should be able to match with other users 
 - A matched user should be able to communicate with the other user 
