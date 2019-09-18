@@ -54,6 +54,7 @@ planning documentation for green-light dating app
 - User CRUD (inclusive of job) 
 - Set User Preferences 
 - Swipe/Match Functionality 
+- Unmatch functionality 
 - Chat Functionality among Matches 
 
 
