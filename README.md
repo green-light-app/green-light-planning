@@ -11,6 +11,16 @@ planning documentation for green-light dating app
   6. Education
   7. Photos (6?) 
   8. Answers to Prompts 
+    - Favorite snack
+    - FMK: Hiking, Netflix, Bar Hopping
+    - Favorite vacay spot 
+    - If you could become any animal, what would it be and why 
+    - What 3 items would you bring on a deserted island for survival 
+    - Plane, Train, or Boat 
+    - If you could only eat 1 thing for the rest of your life what would it be 
+    - Favorite ~basic activity 
+    - Can you keep a plant alive 
+    - 
   9. Smoker/Nonsmoker 
   10. Drinker/Nondrinker 
   11. Drugs/Nondrugs 
