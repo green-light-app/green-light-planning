@@ -20,7 +20,6 @@ planning documentation for green-light dating app
     - If you could only eat 1 thing for the rest of your life what would it be 
     - Favorite ~basic activity 
     - Can you keep a plant alive 
-    - 
   9. Smoker/Nonsmoker 
   10. Drinker/Nondrinker 
   11. Drugs/Nondrugs 
@@ -61,9 +60,12 @@ planning documentation for green-light dating app
 # Stretch Goals 
 - WebSocket Chat 
 - Live Notifications of Match/Chat
+- Algorithm to float more likely Matches to the top of the queue 
 - Report a Ghost Feature (button)
+  - if they do not respond to your most recent msg in 5 days, they are confirmed as a ghost upon report 
+  - ghosts are pushed down the queue of potential matches (less likely to see them) 
+  - 10 ghosts per month - your account is temporarily suspended for 1 week? 
 - Report Stuck with Bill Feature (button)
 - Rating System for Review Feature (catfishing photos, conversation, polite, handsy)
-- Advanced Algorithm to float more likely Matches to the top of the queue 
 - Link profiles to IG 
 - Link profiles to Spotify
