@@ -28,8 +28,7 @@ A user can create a profile with relevant personal information
 
 - A user can login/logout of their account with email/password
 - A user can see, update, and delete their account 
-- A user should be able to swipe R (yes) / L (no) on potential Matches 
-- A user should be able to match with other users 
+- A user should be able to swipe R (yes) / L (no) on potential Matches (other Users)
 - A user should be able to unmatch with Matches 
 - A user should be able to report inappropriate Matches 
 - A user should be able to communicate with Matches in a live chat function 
