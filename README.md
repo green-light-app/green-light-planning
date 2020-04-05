@@ -5,7 +5,6 @@ planning documentation for green-light dating app
 A user can create a profile with relevant personal information 
   1. Email 
   2. Password 
-* Profile
   3. Name 
   4. Age 
   5. Height 
@@ -57,7 +56,7 @@ A user can create a profile with relevant personal information
 
 # Architecture 
 Server-Side: responsible for persisting User actions, serving potential matches, sends live messages from User to User and persists so they exist beyond session 
-- Node.JS/Express? 
+- Node.JS/Express? Rails?
 - PostgreSQL? 
 - GraphQL? 
 - Sockets.io 
