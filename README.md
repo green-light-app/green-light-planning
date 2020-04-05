@@ -2,10 +2,10 @@
 planning documentation for green-light dating app 
 
 # User Stories 
-- A user can create a profile with relevant personal information 
+A user can create a profile with relevant personal information 
   1. Email 
   2. Password 
-  (Profile)
+Profile
   3. Name 
   4. Age 
   5. Height 
